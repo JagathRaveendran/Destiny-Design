@@ -1,0 +1,67 @@
+/* .anton-regular {
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  } */
+#mainHead
+{
+    font-family: "Anton", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+
+}
+#element
+{
+    font-family: "Anton", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 50px;
+
+}
+#head2
+{
+    font-family: "Anton", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 50px;
+
+}
+body
+{
+    background-color: rgb(254, 209, 59);
+}
+#box1,#box2,#box3
+{
+    background-color: 	rgb(120, 195, 46,0.4)
+    /* opacity: ; */
+    
+}
+.links:hover
+{
+    font-size: large;
+    transition:.5s
+    
+}
+/* Targeting the scrollbar */
+::-webkit-scrollbar {
+    width: 10px; /* Width of the scrollbar */
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #afd3aa; /* Color of the track */
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #82936e; /* Color of the handle */
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; /* Color of the handle on hover */
+  }
+  
+
+
+  
